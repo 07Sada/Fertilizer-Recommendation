@@ -1,6 +1,6 @@
 {
   "workbench.colorTheme": "Cobalt2",
-  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "workbench.preferredDarkColorTheme": "Cobalt2",
   "task.allowAutomaticTasks": "on",
   "workbench.editorAssociations": {
     "*.md": "vscode.markdown.preview.editor"

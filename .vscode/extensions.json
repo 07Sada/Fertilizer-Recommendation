@@ -7,7 +7,7 @@
     "ms-toolsai.jupyter-renderers",
     "formulahendry.code-runner",
     "wesbos.theme-cobalt2",
-    "PKief.material-icon-theme"
-  
+    "PKief.material-icon-theme",
+    "wesbos.theme-cobalt2"
   ]
 }

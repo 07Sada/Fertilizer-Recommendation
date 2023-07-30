@@ -54,3 +54,5 @@ zipp==3.16.2
 scikit-learn
 matplotlib
 seaborn
+pyyaml
+dill

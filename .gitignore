@@ -161,4 +161,6 @@ cython_debug/
 data_dump.py
 dataset_download.py
 demo.ipynb
-/config/workspace/catboost_info
+
+artifact
+catboost_info
