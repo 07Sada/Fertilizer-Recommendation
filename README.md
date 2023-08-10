@@ -37,7 +37,7 @@ This dataset contains information about the soil, environmental conditions, crop
 </details>
 
 ## Project Details
-This is repository is submodule for [CropGaurd](https://github.com/07Sada/CropGaurd.git)
+This repository is submodule for [CropGaurd](https://github.com/07Sada/CropGaurd.git)
 
 ## Project PipeLine Stages
 ![Project PipeLine Stages](https://user-images.githubusercontent.com/112761379/225940480-2a7381b2-6abd-4c1c-8287-0fd49099be8c.jpg)
